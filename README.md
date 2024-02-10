@@ -10,7 +10,7 @@ ADHISH S SUJAN(REG NO:223005)
 
 MSc Computer Science With Specialization in Data Analytics
 
-In this project we used to create a model which is capable of detecting accident in the video input that is given and will detect the presence of accident from the video and send alert messages along with the image of the accident and time into a telegram channel that was created for receiving the alert messages
+In this project, we developed a model capable of detecting accidents in provided video inputs. The model identifies the presence of accidents in the videos and sends alert messages, including the accident image and timestamp, to a designated Telegram channel created for receiving such alerts.
 
 Demo performance of the model
 
